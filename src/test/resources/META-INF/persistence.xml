@@ -11,6 +11,7 @@
 			<property name="javax.persistence.jdbc.user" value="sa" />
 			<property name="javax.persistence.jdbc.password" value="" />
 			<property name="javax.persistence.ddl-generation" value="create-tables" />
+			<property name="datanucleus.autoCreateTables" value="true" />
 		</properties>
 	</persistence-unit>
 </persistence>
