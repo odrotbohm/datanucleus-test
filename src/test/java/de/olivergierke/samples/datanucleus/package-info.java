@@ -1,0 +1,1 @@
+package de.olivergierke.samples.datanucleus;
